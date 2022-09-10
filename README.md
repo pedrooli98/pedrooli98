@@ -63,8 +63,7 @@ na formação de FullStack, pela qual sou apaixonado e constantemente curioso. A
 
 <code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
 &nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.svg"/></a></code>
-&nbsp; 
+
 <code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
