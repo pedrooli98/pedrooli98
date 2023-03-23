@@ -22,7 +22,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> 👋, me chamo <b>Pedro</b>, tenho 24 anos e atualmente estou estudando desnvolvimento Full Stack na kenzie Academy.</i><br /><i>Também atuo como <b>Peer Coach</b> no time de educação na <a href="https://kenzie.com.br" target="_blank">Kenzie</a>.</i>
+<i><b>Olá</b> 👋, me chamo <b>Pedro</b>, tenho 25 Desenvolvedor Full Stack especializado em desenvolvimento com React.js Node.js e Django.</i><br /><i>Já atuei como <b>Peer Coach</b> no time de educação na <a href="https://kenzie.com.br" target="_blank">Kenzie</a> e como como desenvolvedor Full Stack na <a href="https://pontuax.com.br/" target="_blank">Pontua X</a></i>
 </div>
 
 -----
